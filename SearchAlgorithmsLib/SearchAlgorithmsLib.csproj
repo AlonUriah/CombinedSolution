@@ -32,11 +32,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="MazeGeneratorLib">
-      <HintPath>..\..\..\..\University\Advanced Programming II\ex1\MazeGeneratorLib.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\..\..\..\Documents\Visual Studio 2017\Projects\MazeProject-master\Server\MazeGeneratorLib.dll</HintPath>
     </Reference>
     <Reference Include="MazeLib">
-      <HintPath>..\..\..\..\University\Advanced Programming II\ex1\MazeLib.dll</HintPath>
+      <HintPath>..\..\..\..\Documents\Visual Studio 2017\Projects\MazeProject-master\Server\MazeLib.dll</HintPath>
     </Reference>
     <Reference Include="MedallionPriorityQueue, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MedallionPriorityQueue.1.0.1\lib\net45\MedallionPriorityQueue.dll</HintPath>
